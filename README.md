@@ -1,7 +1,11 @@
-
 <p align="center">
   <img src="https://your-image-link.com/banner.png" alt="Vismaya Banner" width="100%" />
 </p>
+
+<h2 align="center">
+  Hii There!
+  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="wave emoji" width="48" height="48"/>
+</h2>
 
 
 ## 👋 Hi there, I'm Vismaya!
