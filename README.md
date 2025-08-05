@@ -1,5 +1,6 @@
 
-![Banner]("assets/banner.png")
+![Banner](assets/banner.png)
+
 
 ## 👋 Hi there, I'm Vismaya!  
 
