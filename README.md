@@ -2,10 +2,10 @@
   <img src="https://your-image-link.com/banner.png" alt="Vismaya Banner" width="100%" />
 </p>
 
-<h2 align="center">
-  Hii There!
-  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="wave emoji" width="48" height="48"/>
-</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vismayap98/vismayap98/main/assets/waving_woman_computer.gif" width="250" alt="Waving woman at computer" />
+</p>
+
 
 
 ## 👋 Hi there, I'm Vismaya!
