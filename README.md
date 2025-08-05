@@ -1,5 +1,5 @@
 
-![Banner]("C:\Users\Dell\Downloads\banner.png")
+![Banner]("assets/banner.png")
 
 ## 👋 Hi there, I'm Vismaya!  
 
