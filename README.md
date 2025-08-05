@@ -1,7 +1,13 @@
 
 
 
-## 👋 Hi there, I'm Vismaya!
+## 👋 Hi there, I'm Vismaya!  
+<p align="center">
+  <img src="https://cdn.pixabay.com/vimeo/554848844/pexels-polina-tankilevitch-contrasting-2665px-03cd37bb58ac7f06f60d3a5eec52034e.gif" width="200" alt="Cartoon woman waving hi at computer"/>
+</p>
+
+
+
 
 A passionate **Data Enthusiast** with a strong foundation in data analytics, cloud, and automation. I'm driven by curiosity and the desire to turn raw data into actionable insights through smart pipelines and clean visualizations.
 
